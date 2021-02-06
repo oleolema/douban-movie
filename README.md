@@ -19,7 +19,7 @@ mvn spring-boot:run
 
 ## 效果图:
 
-![效果图](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/24b660995df14f899c7611dc5ff599f8~tplv-k3u1fbpfcp-watermark.image)
+![](https://ftp.bmp.ovh/imgs/2021/02/d034db142184f4df.png)
 
 ## 附:
 
