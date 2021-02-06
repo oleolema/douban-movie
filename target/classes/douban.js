@@ -13,8 +13,7 @@
     if(!location.href.startsWith('https://movie.douban.com/subject/')){
         return ;
     }
-    const searchHost = "https://www.oleolema.cn"
-    //vbbZXZ;'21const searchHost = "http://localhost:8060"
+    const searchHost = "http://localhost:8060"
     const movieName = document.title;
     const indent = $('.indent.clearfix');
     indent.append("<br>")
